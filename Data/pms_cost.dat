@@ -1,4 +1,4 @@
-# edited from xlsx
+# sets defining the depots and refineries.
 
 set Depots :=  'ABA' 'BENIN' 'CALABAR' 'ENUGU' 'GUSAU' 'GOMBE' 'IBADAN' 'ILORIN' 'JOS' 'KADUNA' 'KANO' 'ATLAS COVE' 'SATELLITE' 'MOSIMI' 'MAKURDI' 'MAIDUGURI' 'MINNA' 'ORE' 'PORT HARCOURT' 'SULEJA' 'WARRI'
  'YOLA';
