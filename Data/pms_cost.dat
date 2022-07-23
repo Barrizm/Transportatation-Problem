@@ -7,7 +7,7 @@ set Refineries :=  'PHRC' 'KRPC' 'WRPC';
 
 # the cost function
 param: costs := 
-'refinery' 'depot' cost
+#'refinery' 'depot' cost (arrangement from 'refinery' to 'depot' num_cost) 
   'PHRC' 'SULEJA'  629
   'WRPC' 'MAIDUGURI'  1324
   'PHRC' 'PORT HARCOURT'  25
