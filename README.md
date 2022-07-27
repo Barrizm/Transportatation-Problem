@@ -1,3 +1,3 @@
-# Transportatation Problem
+# Transportation Problem
 This problem seeks to optimize the cost of transporting major petroleum products throught pipeline a case study Nigerian National Petroleum Corporation(NNPC) in the downstream sector.
 This research work examines the situation in the petroleum downstream sector in order to determine the future demand, and produce an efficient and equitable distribution of three blends of petroleum products, namely; Premium motor spirit (PMS) House Hold Kerosene (HHK) and Automotive Gas Oil (AGO). For a comprehensive analysis, three refineries and twenty two storage depots were considered because of their interconnections with pipelines. The demand from depots and supply from the three refineries were used to formulate a mathematical model hence found an optimal solution with pyomo module.
